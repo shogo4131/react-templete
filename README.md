@@ -9,7 +9,7 @@ yarn create next-app --example https://github.com/shogo4131/react-templete
 ## Routingライブラリ
 いずれかを導入する。
 
-### react-router-dom
+### react router
 https://reactrouter.com/en/main
 
 ### react location
