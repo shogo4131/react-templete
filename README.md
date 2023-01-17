@@ -1,11 +1,5 @@
 # React + Vite のテンプレート
 
-## プロジェクト作成
-
-```
-yarn create react-app --example https://github.com/shogo4131/react-templete
-```
-
 ## Routing ライブラリ
 
 いずれかを導入する。
